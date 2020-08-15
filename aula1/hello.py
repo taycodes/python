@@ -9,6 +9,7 @@ def par(rangeNumbers):
         if number % 2 == 0:
             print(number)
 
+print("oi")
 
 lista() 
 par(100)           
